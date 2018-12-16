@@ -1,5 +1,6 @@
 # platform-game
 A Platform Game in Pure JS 
+https://eloquentjavascript.net/16_game.html
 
 This is a platform game project written in pure JavaScript without any libraries / engine for learning purposes.
 
