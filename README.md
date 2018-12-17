@@ -6,4 +6,4 @@ This is a platform game project written in pure JavaScript without any libraries
 
 Taken from chapter 16 of 3rd Edition of Eloquent JavaScript https://eloquentjavascript.net
 
-![alt text](https://raw.githubusercontent.com/lavimalik/platform-game/master/img/game-screenshot.png|600x450)
+![Game Screenshot](https://raw.githubusercontent.com/lavimalik/platform-game/master/img/game-screenshot.png | width=600)
